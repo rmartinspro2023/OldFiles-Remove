@@ -1,5 +1,9 @@
+
+
 # OldFiles-Remove
 Projeto realizado em batch script (.bat) para automatizar tarefa de remover arquivos antigos de um diretório em especifico
+
+O script está salvo no diretorio bin
 
 ## VARIAVES A SEREM ALTERADAS
 
